@@ -2,6 +2,6 @@
 
 Projeto simples utilizando a arquitetura MVP
 
-* Consumo de uma API utilizando retrofit e coroutines.
-* RecyclerView como grid.
+* Consumo de API utilizando retrofit e coroutines.
+* RecyclerView no formato de grid.
 * DataBinding.
