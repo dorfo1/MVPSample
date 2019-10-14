@@ -8,3 +8,5 @@ Projeto simples utilizando a arquitetura MVP
 * KTX
 * [Picasso](https://square.github.io/picasso/) para carregar imagens.
 
+
+<img src="pokemon.gif" width="30%">
